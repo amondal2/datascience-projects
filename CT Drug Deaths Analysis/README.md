@@ -1,0 +1,1 @@
+Directory containing all pertinent files in analyzing a dataset of drug-related deaths in the state of Connecticut. Most of the analysis is in the iPython notebook CT_drug_deaths.ipynb, but there is a supplementary geospatial analysis conducted in ct_map.Rmd.
